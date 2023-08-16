@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web development<br>⚡ Fun fact-Something I can improve about myself is my software knowledge, which is why I currently take technology courses during the evenings and weekends.
-
+🔭 I’m currently working on Web development<br>⚡ If you have a problem with me then text me,if you don't have my number then you don't know me well.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JyothikaJayan#6678) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_silent_______jazzz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyothikajayan-789249230) 
